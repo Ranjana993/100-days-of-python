@@ -1,1 +1,6 @@
 print("hello World :)")
+print(23)
+print(123.3412)
+print("hello" , "ranjana" , "how " , "are " , "you ")
+print("Hello" , "world" , "how" , "are" , "you" , sep="/")
+print("Hello" , "world" , "how" , "are" , "you" , sep=" , " , end=" ")
